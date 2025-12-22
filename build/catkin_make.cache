@@ -1,0 +1,2 @@
+turtlebot_simulator/turtlebot_gazebo:turtlebot_simulator/turtlebot_simulator:turtlebot_simulator/turtlebot_stage:turtlebot_simulator/turtlebot_stdr:turtlebot_waypoint
+-DCATKIN_DEVEL_PREFIX=/home/oussama/Desktop/catkin_ws_waypoint/devel -DCMAKE_INSTALL_PREFIX=/home/oussama/Desktop/catkin_ws_waypoint/install -G Unix Makefiles

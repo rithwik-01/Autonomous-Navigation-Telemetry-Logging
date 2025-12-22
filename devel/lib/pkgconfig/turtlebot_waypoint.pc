@@ -1,0 +1,8 @@
+prefix=/home/oussama/Desktop/catkin_ws_waypoint/devel
+
+Name: turtlebot_waypoint
+Description: Description of turtlebot_waypoint
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
